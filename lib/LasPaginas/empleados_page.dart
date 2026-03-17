@@ -21,7 +21,7 @@ class EmpleadosPage extends StatelessWidget {
             borderRadius: BorderRadius.circular(15),
             image: const DecorationImage(
               image: NetworkImage(
-                'https://images.unsplash.com/photo-1557804506-669a67965ba0?ixlib=rb-1.2.1&auto=format&fit=crop&w=200&h=200&q=80'
+                'https://private-user-images.githubusercontent.com/231079253/564976331-c6a60391-044d-4290-af14-d0a5bd05e3ff.JPG?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzM3NjgwNDIsIm5iZiI6MTc3Mzc2Nzc0MiwicGF0aCI6Ii8yMzEwNzkyNTMvNTY0OTc2MzMxLWM2YTYwMzkxLTA0NGQtNDI5MC1hZjE0LWQwYTViZDA1ZTNmZi5KUEc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMzE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDMxN1QxNzE1NDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mZTAwNzMyN2M0YWRlMjgwNDU0ODgxMWUxZWM2NTlkNmI3ZTdkOTFiYjk5ZWY3MzdlZjYyMDI1N2ZlOGEwMTUxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.AFM-stfy2E87CeurvqgaYaRrc_4XamrYTFTx9LHKWZ8'
               ),
               fit: BoxFit.cover,
             ),
@@ -50,7 +50,7 @@ class EmpleadosPage extends StatelessWidget {
                       CircleAvatar(
                         radius: 30,
                         backgroundImage: const NetworkImage(
-                          'https://images.unsplash.com/photo-1563241527-3004b7be0ffd?ixlib=rb-1.2.1&auto=format&fit=crop&w=60&h=60&q=80'
+                          'https://private-user-images.githubusercontent.com/231079253/564976331-c6a60391-044d-4290-af14-d0a5bd05e3ff.JPG?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzM3NjgwNDIsIm5iZiI6MTc3Mzc2Nzc0MiwicGF0aCI6Ii8yMzEwNzkyNTMvNTY0OTc2MzMxLWM2YTYwMzkxLTA0NGQtNDI5MC1hZjE0LWQwYTViZDA1ZTNmZi5KUEc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMzE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDMxN1QxNzE1NDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mZTAwNzMyN2M0YWRlMjgwNDU0ODgxMWUxZWM2NTlkNmI3ZTdkOTFiYjk5ZWY3MzdlZjYyMDI1N2ZlOGEwMTUxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.AFM-stfy2E87CeurvqgaYaRrc_4XamrYTFTx9LHKWZ8'
                         ),
                         backgroundColor: Colors.pink[100],
                       ),
